@@ -11,4 +11,7 @@ object TraitTest extends App {
 
   val rect = new Rectangle(3.0, 4.0)
   println(rect.area)
+
+  val user = new User("yyssjj33", "yj@qq.com")
+  println(user.age)
 }

@@ -1,4 +1,3 @@
-
 trait Shape{
   def sides: Int
   def perimeter: Double
